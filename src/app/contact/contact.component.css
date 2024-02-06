@@ -33,6 +33,7 @@ form label {
     bottom: -30px;
     z-index: -1;
     transition: bottom 0.5s;
+    color: var(--main-color);
 }
 
 form input {
